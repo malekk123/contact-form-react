@@ -1,12 +1,14 @@
 # Contact-form-react
-cette une application react qui permet de saisir un formulaire de contact et envoyer un email avec nodemailer.
+
+ [![My Skills](https://skillicons.dev/icons?i=js,react,nodejs,express)](https://skillicons.dev)
+
+# Description
+Cette une application react qui permet de saisir un formulaire de contact et envoyer un email avec nodemailer.
 
 La partie backend est développé avec express ,node js 
 
 
 La partie frontend est développé avec react 
- [![My Skills](https://skillicons.dev/icons?i=js,react,node,express)](https://skillicons.dev)
-
 
 <h1>1.formulaire de contact</h1>
 
