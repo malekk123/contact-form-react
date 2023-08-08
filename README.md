@@ -1,11 +1,11 @@
 # Contact-form-react
+![image](https://github.com/malekk123/contact-form-react/assets/117657775/58cc9dd7-d849-49b2-bd6a-2a3213ef540d) ![image](https://github.com/malekk123/contact-form-react/assets/117657775/ef316efc-902c-4d12-b91d-f2cb17f2e8d2) ![image](https://github.com/malekk123/contact-form-react/assets/117657775/136d928b-7388-4cd2-b0c2-7a2baf3a396c)
 cette une application react qui permet de saisir un formulaire de contact et envoyer un email avec nodemailer.
 
-La partie backen est développé avec express ![image](https://github.com/malekk123/contact-form-react/assets/117657775/ef316efc-902c-4d12-b91d-f2cb17f2e8d2)
-,node js ![image](https://github.com/malekk123/contact-form-react/assets/117657775/136d928b-7388-4cd2-b0c2-7a2baf3a396c)
+La partie backen est développé avec express ,node js 
 
 
-La partie frontend est développé avec react ![image](https://github.com/malekk123/contact-form-react/assets/117657775/58cc9dd7-d849-49b2-bd6a-2a3213ef540d)
+La partie frontend est développé avec react 
 
 
 
